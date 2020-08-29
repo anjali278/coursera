@@ -1,0 +1,35 @@
+<html>
+     <head>
+         <title>Module 2</title>
+         <link rel="stylesheet" href="./style.css">
+     </head>
+     <body>
+         <div class="titlemain">
+             Our Menu
+
+         </div>
+        
+         <div class="sec lg4 md2 sm1 ">
+             <div class="title1">Chicken</div>
+                <div class="subtitle">
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt quos odit magni repellendus rem! Amet ipsam repellendus corporis ut error excepturi alias, itaque qui perferendis dolorum? Iure corrupti expedita consequatur.
+
+                </div> 
+         </div>
+         <div class="sec lg4 md2 sm1 ">
+            <div class="title2">Beef</div>
+               <div class="subtitle">
+                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt quos odit magni repellendus rem! Amet ipsam repellendus corporis ut error excepturi alias, itaque qui perferendis dolorum? Iure corrupti expedita consequatur.
+
+               </div> 
+        </div>
+        <div class="sec lg4 md2 sm1 ">
+            <div class="title3">Sushi</div>
+               <div class="subtitle">
+                   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt quos odit magni repellendus rem! Amet ipsam repellendus corporis ut error excepturi alias, itaque qui perferendis dolorum? Iure corrupti expedita consequatur.
+
+               </div> 
+        </div>
+         
+     </body>
+ </html>
